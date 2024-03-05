@@ -29,6 +29,10 @@ body {
 }
 .logo h1{
   font-size: 1rem;
+  color: #030637;
+}
+.logo span{
+  color: #d70093;
 }
 .navBar{
 display: flex;
@@ -43,4 +47,18 @@ font-weight: 500;
   text-decoration: none;
   display: flex;
   font-size: .9rem;
+}
+.home{
+  padding-top:20% ;
+  text-align: center;
+}
+.home h1{
+  color: white;
+}
+.home span{
+  color: #030637;
+}
+.home p{
+  margin-top: 5%;
+  color: white;
 }
