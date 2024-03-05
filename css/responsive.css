@@ -1,0 +1,58 @@
+@media only screen and (max-width: 760px) {
+  .navBar a {
+    font-size: 0.9rem;
+  }
+  .logo h1 {
+    font-size: 1rem;
+  }
+
+  .tulisan-home {
+    width: auto;
+    height: auto;
+  }
+  .tulisan-home h1 {
+    font-size: 3rem;
+  }
+  .tbl-pesan {
+    width: 20%;
+    padding: 0;
+    height: 5%;
+    left: 41%;
+  }
+  .tbl-pesan a {
+    width: auto;
+    height: auto;
+  }
+  .service {
+    height: 40%;
+    padding: 0;
+    margin: 0;
+  }
+  .konten-service {
+    gap: 10px;
+    
+  }
+  .item-service {
+    width: 30%;
+    height: 80%;
+  }
+  .gambar-service {
+   margin: 0;
+  }
+  .gambar-service img {
+    position: absolute;
+    width: 25%;
+    top: 101%;
+  }
+  .tulisan-service {
+  }
+  .tulisan-service h1 {
+    font-size: 1rem;
+  }
+  .tulisan-service h1 span {
+  }
+
+  .tulisan-service p {
+    font-size: 0.5rem;
+  }
+}
